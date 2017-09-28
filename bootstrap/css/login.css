@@ -1,0 +1,21 @@
+.loginwindow{
+border-radius:10px;
+    padding: 0% 2% 2% 2%;
+    background-color:rgba(221, 221, 221, 0.59);;
+    margin-bottom: 40px;
+    margin-top: 20px;
+
+}
+#logsubmit{
+    float: right;
+    width: 30%;
+}
+#logh1{
+    font-family: "Adobe Devanagari";
+    font-style: oblique;
+}
+.marginform{
+    margin-top:1%;
+    margin-bottom: 1%;
+    font-size: medium;
+}

@@ -1,0 +1,76 @@
+.legends{
+    text-align: center;
+    background-color: rgba(11,10,20,0.36);
+    border-radius:5px;
+}
+.admin_msg_win{
+    background-color:rgba(169, 169, 169, 0.19);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.admin_msg_submit{
+    float: right;
+    margin-right: 10px;
+}
+.staff_forms{
+    margin: 5px;
+    background-color:rgba(169, 169, 169, 0.19);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.admin_msg_win{
+    background-color:rgba(169, 169, 169, 0.19);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.radiobutton{
+padding: 20px;
+    margin: 10px;
+}
+
+
+
+.main-text
+{
+    position: absolute;
+    top: 50px;
+    width: 96.66666666666666%;
+    color: #FFF;
+}
+.btn-min-block
+{
+    min-width: 170px;
+    line-height: 26px;
+}
+.btn-clear
+{
+    color: #FFF;
+    background-color: transparent;
+    border-color: #FFF;
+    margin-right: 15px;
+}
+.btn-clear:hover
+{
+    color: #000;
+    background-color: #FFF;
+}
+
+
+
+h3 {
+    display: inline-block;
+    padding: 10px;
+    /*background: #B9121B;*/
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.full-screen {
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
